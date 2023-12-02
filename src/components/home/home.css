@@ -1,0 +1,102 @@
+.home {
+  width: 100vw;
+  max-width: 80rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.form {
+  display: flex;
+  gap: 20px;
+}
+.form input {
+  background-color: lightgray;
+  border: none;
+  padding: 0.8rem 1rem;
+  width: 20rem;
+  border-radius: 10px;
+}
+
+.form button {
+  background-color: aquamarine;
+  width: 5rem;
+  border-radius: 10px;
+}
+
+.allDelete img {
+    width: 1.5rem;
+    height: 1.5rem;
+    object-fit: cover;
+    border: none;
+}
+button {
+    border: none;
+}
+
+.content{
+  margin: 3rem auto;
+  width: 100%;
+  max-width: 80rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: black;
+}
+
+.actions{
+    display: flex;
+    align-items: center;
+   justify-content: flex-start;
+    gap: 10px;
+}
+.actions img {
+    width: 1.5rem;
+    height: 1.5rem;
+    object-fit: cover;
+}
+
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 1rem 0;
+    gap: 10px;
+}
+
+.pagination button {
+   background-color: white;
+   color: black;
+   padding: 0.2rem 1rem;
+   border-radius: 10px;
+}
+
+input {
+    border: none;
+    background-color: white;
+    color: black;
+    padding: 0.4rem 1rem;
+    border-radius: 10px;
+}
