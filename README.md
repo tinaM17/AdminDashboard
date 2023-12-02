@@ -32,6 +32,9 @@ This is a simple React application for managing a table of users with features l
    
 4. Open http://localhost:5173 in your browser to view the app.
 
+## Deployed Link:- 
+https://admin-management-dashboard.netlify.app/
+
 ## Contributing
 Contributions are welcome! Please follow the Contribution Guidelines.
 
